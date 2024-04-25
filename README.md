@@ -21,5 +21,6 @@ cd movie_ratings
 
 **Run the Application as Jupiter Notebook using Python**
 ```
+Go to movie_ratings.ipynb
 select "Run All" for the notebook.
 ```
